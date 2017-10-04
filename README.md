@@ -1,2 +1,2 @@
-# crap
-crap news and analyze contents
+# crawler
+crawler news and analyze contents
